@@ -7,4 +7,4 @@ Aplikacja zapytuje odpowiedni serwis (Steam) o informacje o grze takie jak:
 - opinie
 - opis
 
-Wyświetla wynik w postaci prosej strony internetowej.
+Wyświetla wynik w postaci prostej strony internetowej.
