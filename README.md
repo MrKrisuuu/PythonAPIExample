@@ -1,10 +1,10 @@
 # PythonAPIExample
 
-Mini projekt zrobiony na zadanie z Systemów Roproszonych, z użyciem: fastapi, uvicorn i requests.
+Mini project made from Petroleum Systems, using: fastapi, uvicorn and requests.
 
-Aplikacja zapytuje odpowiedni serwis (Steam) o informacje o grze takie jak:
-- cena
-- opinie
-- opis
+The application asks the service (Steam) for information about the game, such as:
+- price
+- opinions
+- description
 
-Wyświetla wynik w postaci prostej strony internetowej.
+and displays the result as a simple web page.
