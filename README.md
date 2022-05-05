@@ -1,4 +1,4 @@
-# PythonAPIExample
+# PythonRESTAPI
 
 Mini project made for Distributed Systems, using: fastapi, uvicorn and requests.
 
