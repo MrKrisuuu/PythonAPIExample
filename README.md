@@ -7,4 +7,4 @@ The application asks the service (Steam) for information about the game, such as
 - opinions
 - description
 
-and displays the result as a simple web page.
+and displays the result as JSON.
